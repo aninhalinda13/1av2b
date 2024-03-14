@@ -11,6 +11,7 @@ body {
     padding: 50px 30px;
     cursor: pointer;
     transition: 0.3s aese;
+    width: 13;
 }
 .botao:hover{
     background-color: rgb(255, 0, 128);
